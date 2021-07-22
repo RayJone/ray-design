@@ -12,6 +12,7 @@
         <module>ray-design-1-00</module>
         <module>ray-design-1-01</module>
         <module>ray-design-1-02</module>
+        <module>ray-design-2</module>
     </modules>
 
     <dependencies>
