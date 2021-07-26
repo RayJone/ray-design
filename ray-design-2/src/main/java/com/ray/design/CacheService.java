@@ -8,9 +8,9 @@ import java.util.concurrent.TimeUnit;
  */
 public interface CacheService {
 
-    String get(String key, int redisType);
-    int set(String key,String value);
-    int set(String key, String value, long timeOut, TimeUnit timeUnit);
+    String get(String key);
+    void set(String key,String value);
+    void set(String key, String value, long timeOut, TimeUnit timeUnit);
     void del(String key);
 
 }
