@@ -15,6 +15,7 @@
         <module>ray-design-2</module>
         <module>ray-design-3</module>
         <module>ray-design-6</module>
+        <module>ray-design-7</module>
     </modules>
 
     <dependencies>
